@@ -1,0 +1,15 @@
+
+# Build output
+build/
+.pio/
+.vscode/
+
+# Compiled files
+*.o
+*.elf
+*.bin
+*.hex
+
+# Local configuration and secrets
+.env
+secrets.h
